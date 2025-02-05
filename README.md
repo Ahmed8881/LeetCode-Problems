@@ -13,4 +13,20 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Hash Table
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

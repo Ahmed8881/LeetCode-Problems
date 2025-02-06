@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->

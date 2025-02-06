@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0009-palindrome-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

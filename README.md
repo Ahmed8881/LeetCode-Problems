@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ahmed8881/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
